@@ -1,7 +1,7 @@
 // static/js/d3-charts.js
 
 // API配置
-const API_BASE_URL = 'http://localhost:5000';
+const API_BASE_URL = '';
 const API_ENDPOINTS = {
     fingerprintData: `${API_BASE_URL}/api/fingerprint-data`,
     books: `${API_BASE_URL}/api/books`
